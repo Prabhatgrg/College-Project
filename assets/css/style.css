@@ -1,0 +1,19 @@
+body::before{
+    display: block;
+    content: '';
+    height: 60px;
+}
+
+.card{
+    object-fit: cover;
+}
+
+a{
+    text-decoration: none;
+}
+
+@media(min-width: 768px) {
+    .news-input {
+        width: 50%;
+    }
+}
