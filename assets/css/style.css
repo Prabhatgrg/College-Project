@@ -8,6 +8,11 @@ body::before{
     object-fit: cover;
 }
 
+.card .card-img-top {
+    aspect-ratio: 1/1;
+    object-fit: cover;
+}
+
 a{
     text-decoration: none;
 }
