@@ -1,3 +1,3 @@
-# College-Project
+# GSM-Moto ride learning website
 
-College Project done with boostrap 5
+College Project done with bootstrap 5
