@@ -18,8 +18,17 @@ body::before{
     padding-left: 20px;
 }
 
+.list-group-item{
+    background-color: #212529;
+}
+
 a{
     text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: aqua;
 }
 
 @media(min-width: 768px) {
