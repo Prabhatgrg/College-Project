@@ -40,6 +40,11 @@ a:hover{
 
 .map-card{
     overflow: hidden;
+    object-fit: contain;
+}
+
+.map-container{
+    object-fit: cover;
 }
 
 /* .map-card .card-body {
